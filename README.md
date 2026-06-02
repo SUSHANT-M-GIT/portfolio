@@ -51,14 +51,6 @@ portfolio/
 ├── script.js
 ├── resume.pdf
 
-## Future Improvements
-
-* Add more projects
-* Add dark/light mode toggle
-* Improve animations
-* Add backend contact form
-* Add project filtering section
-
 ## Author
 
 Sushant Mishra
