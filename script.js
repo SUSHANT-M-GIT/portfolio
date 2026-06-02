@@ -192,10 +192,11 @@
   if (!el) return;
 
   const phrases = [
-    'Full Stack MERN Developer',
     'Frontend Engineer',
+    'React Developer',
+    'UI Engineer',
     'Real-Time Systems Builder',
-    'Scalable API Developer',
+    'Frontend-Focused Software Developer',
   ];
 
   let phraseIdx = 0;
