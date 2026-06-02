@@ -8,7 +8,7 @@ The website is made to showcase my projects, technical skills, certifications, a
 I created this portfolio to have my own professional website where I can display my work and skills in a better way.
 The website is fully responsive and works on desktop, tablet, and mobile devices.
 
-It includes:
+It includes: 
 
 * Modern UI design
 * Smooth animations
